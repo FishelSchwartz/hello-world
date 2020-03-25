@@ -1,2 +1,6 @@
 # hello-world
+
 I'm new to this, so...
+Hi!!
+
+I will just type randomly to finish this tutorial...
